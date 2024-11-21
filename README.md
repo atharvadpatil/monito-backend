@@ -26,9 +26,9 @@ Monito is a user-friendly responsive chat bot in the form of a web app that can 
 ## Contributors
 | Sr. No. | Name     | GitHub |
 | ------ | -------- | ----------- |
-| 1.     | Viraj Patidar | [@VirajPatidar](https://github.com/VirajPatidar) |
-| 2.     | Anurag Singh | [@heyanurag](https://github.com/heyanurag)|
-| 3.     | Atharva Patil | [@atharvadpatil](https://github.com/atharvadpatil)|
+| 1.     | Atharva Patil | [@atharvadpatil](https://github.com/atharvadpatil)|
+| 2.     | Viraj Patidar | [@VirajPatidar](https://github.com/VirajPatidar) |
+| 3.     | Anurag Singh | [@heyanurag](https://github.com/heyanurag)|
 
 <br/>
 
